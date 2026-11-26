@@ -22,5 +22,3 @@ Overall = média aritmética dos seis atributos, arredondada.
 
 ## Estado desta versão
 É um MVP inicial: cadastro/listagem/exclusão de jogadores, criação de times, associação de jogadores aos times e ranking. Ainda faltam autenticação visual completa, edição de jogadores, exclusão de times e escalações táticas persistentes. A prévia tática/formação não está implementada nesta versão.
-
-Não coloque `service_role` ou secret keys no frontend. Use somente a chave pública Publishable/anon.
